@@ -1,0 +1,22 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDEs
+.vscode/
+.idea/
+
+# Logs & temp
+*.log
+*.tmp
+
+# Tooling & System ignores
+.env
+.env.local
+node_modules/
+dist/
+build/
+.cache/
+coverage/
+
